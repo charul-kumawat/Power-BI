@@ -38,12 +38,14 @@ The goal is to enable stakeholders to make **strategic decisions around sales op
 
 ## Dashboard Overview
 
-### Executive Summary
+### EXECUTIVE SUMMARY
 
-* Revenue: **$24.9M**
-* Profit: **$10.5M**
-* Orders: **25.2K**
-* Return Rate: **2.2%**
+| Metric | Value |
+|--------|------|
+| Revenue | $24.9M |
+| Profit | $10.5M |
+| Orders | 25.2K |
+| Return Rate | 2.2% |
 
 <img width="1333" height="754" alt="First Page" src="https://github.com/user-attachments/assets/c421ebd1-e847-47da-9c32-3984a9f4679b" />
 
@@ -51,7 +53,7 @@ The dashboard shows a strong scale of business with $24.9M revenue, $10.5M profi
 
 ---
 
-### Customer Analysis
+### CUSTOMER ANALYSIS
 
 * Total Customers: **17.4K**
 * Revenue per Customer: **$1.4K**
@@ -68,7 +70,7 @@ Key capabilities:
 
 ---
 
-### Product Performance Analysis
+### PRODUCT PERFORMANCE ANALYSIS
 
 * Tracks **top-performing products by revenue and orders**
 * Monitors **return percentage per product**
@@ -85,7 +87,7 @@ Key feature:
 
 ---
 
-### Regional Analysis
+### REGIONAL ANALYSIS
 
 * Sales distribution across:
 
@@ -104,7 +106,7 @@ Interactive map enables:
 
 ---
 
-### Trend Analysis
+### TREND ANALYSIS
 
 * Monthly revenue, profit, and order tracking
 * Rolling metrics using DAX
@@ -115,7 +117,7 @@ The business appears to be growing steadily rather than stagnating, and the late
 
 ---
 
-## Data Model
+## DATA MODEL
 
 * Star schema structure with:
 
@@ -133,7 +135,7 @@ The business appears to be growing steadily rather than stagnating, and the late
 
 ---
 
-## DAX & Analytical Techniques
+## DAX & ANALYTICAL TECHNIQUES
 
 Implemented advanced DAX measures such as:
 
@@ -157,7 +159,7 @@ CALCULATE(
 )
 ```
 
-## Key Business Impact
+## KEY BUSINESS IMPACT
 
 - The business generated $24.9M in revenue and $10.5M in profit across 25.2K orders, with a low 2.2% return rate, indicating strong overall performance.
 - Revenue is concentrated among a relatively small number of high-value customers; the top customer alone contributed $12.4K from only 6 orders. Retention of these customers will be beneficial.
@@ -170,7 +172,7 @@ CALCULATE(
 
 ---
 
-## 📬 Contact
+## 📬 CONTACT
 
 * LinkedIn: https://www.linkedin.com/in/charul-kumawat-03526b239/
 * Email: [charulk97@gmail.com](mailto:charulk97@gmail.com)

@@ -18,7 +18,6 @@ A multi-page Power BI dashboard designed to analyze **sales performance, custome
 - [Trend Analysis](#trend-analysis)
 - [Data Model](#data-model)
 - [DAX & Analytical Techniques](#dax--analytical-techniques)
-- [Dashboard Preview](#dashboard-preview)
 - [Key Business Impact](#key-business-impact)
 - [Contact](#contact)
 
@@ -46,6 +45,8 @@ The goal is to enable stakeholders to make **strategic decisions around sales op
 * Orders: **25.2K**
 * Return Rate: **2.2%**
 
+<img width="1333" height="754" alt="First Page" src="https://github.com/user-attachments/assets/c421ebd1-e847-47da-9c32-3984a9f4679b" />
+
 The dashboard shows a strong scale of business with $24.9M revenue, $10.5M profit, 25.2K orders, and a relatively low 2.2% return rate. This indicates a healthy business with good profitability and controlled return leakage.
 
 ---
@@ -61,6 +62,8 @@ Key capabilities:
 * Analyze **orders by income level and occupation**
 * Track **customer growth trends over time**
 
+<img width="1338" height="755" alt="Customer Detail Page" src="https://github.com/user-attachments/assets/bafbad6b-b25e-495d-81ce-45829ec56535" />
+
 👉 **Insight:** The business serves about 17.4K unique customers, generating around $1.4K revenue per customer on average. The top customer alone generated $12.4K revenue from just 6 orders. Revenue is not evenly distributed; a small set of high-value customers contributes disproportionately, making retention and account management strategically important.
 
 ---
@@ -74,6 +77,9 @@ Key capabilities:
 Key feature:
 
 * Dynamic **price adjustment simulation** to evaluate impact on profit
+
+<img width="1333" height="750" alt="Product Detail Page" src="https://github.com/user-attachments/assets/b46f26b9-853f-4533-a9b9-283d2d9e2868" />
+
 
 👉 **Insight:** The Water Bottle - 30 oz. is the top product in the detail view, with 3,983 orders and $39,755 revenue. Other products such as Sport-100 Helmet, Red and AWC Logo Cap also contribute significant revenue. A small number of products drive a large share of sales, so inventory planning and promotion strategy should prioritize these high-volume items.
 
@@ -91,6 +97,8 @@ Interactive map enables:
 
 * Geographic performance comparison
 * Identification of high-performing regions
+
+<img width="1333" height="752" alt="Map Page" src="https://github.com/user-attachments/assets/84184cc7-1f07-47f6-adbf-c1140f5b62c5" />
 
 👉 **Insight:** The map shows strong sales presence in the United States, Canada, United Kingdom, France, Germany, and Australia, with the U.S. appearing as the dominant market. Sales are geographically concentrated, which helps identify priority regions for growth and localization.
 
@@ -119,6 +127,8 @@ The business appears to be growing steadily rather than stagnating, and the late
     * Territory Lookup
     * Calendar Lookup
 
+<img width="694" height="796" alt="Data Model" src="https://github.com/user-attachments/assets/bb8917d8-dd7b-43f0-b4cc-65396afdb62e" />
+
 👉 The data model uses a star-schema structure with fact and dimension tables, and the measures page shows advanced DAX logic for rolling metrics, adjusted profit, target comparison, and customer/product segmentation.
 
 ---
@@ -132,6 +142,8 @@ Implemented advanced DAX measures such as:
 * High-ticket order identification
 * Adjusted profit calculations
 
+<img width="1768" height="801" alt="Measure Tables" src="https://github.com/user-attachments/assets/12b8ab33-5a10-46b9-83a6-091915d99187" />
+
 Example:
 
 ```DAX
@@ -144,28 +156,6 @@ CALCULATE(
     )
 )
 ```
-
-### 📸 Dashboard Preview
-
-## Executive Dashboard
-<img width="1333" height="754" alt="First Page" src="https://github.com/user-attachments/assets/c421ebd1-e847-47da-9c32-3984a9f4679b" />
-
-## Customer Analysis
-<img width="1338" height="755" alt="Customer Detail Page" src="https://github.com/user-attachments/assets/bafbad6b-b25e-495d-81ce-45829ec56535" />
-
-## Product Analysis
-<img width="1333" height="750" alt="Product Detail Page" src="https://github.com/user-attachments/assets/b46f26b9-853f-4533-a9b9-283d2d9e2868" />
-
-## Regional Analysis
-<img width="1333" height="752" alt="Map Page" src="https://github.com/user-attachments/assets/84184cc7-1f07-47f6-adbf-c1140f5b62c5" />
-
-## Data Model
-<img width="694" height="796" alt="Data Model" src="https://github.com/user-attachments/assets/bb8917d8-dd7b-43f0-b4cc-65396afdb62e" />
-
-## DAX Measures
-<img width="1768" height="801" alt="Measure Tables" src="https://github.com/user-attachments/assets/12b8ab33-5a10-46b9-83a6-091915d99187" />
-
----
 
 ## 🚀 Key Business Impact
 

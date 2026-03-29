@@ -8,6 +8,23 @@ A multi-page Power BI dashboard designed to analyze **sales performance, custome
 
 ---
 
+## 📌 Table of Contents
+
+- [Business Objective](#business-objective)
+- [Dashboard Overview](#dashboard-overview)
+- [Customer Analysis](#customer-analysis)
+- [Product Analysis](#product-analysis)
+- [Regional Analysis](#regional-analysis)
+- [Data Model](#data-model)
+- [DAX & Analytical Techniques](#dax--analytical-techniques)
+- [Key Insights](#key-insights)
+- [Tools & Technologies](#tools--technologies)
+- [Dashboard Preview](#dashboard-preview)
+- [Business Impact](#business-impact)
+- [Contact](#contact)
+
+---
+
 ## 🎯 Business Objective
 
 To identify key drivers of:

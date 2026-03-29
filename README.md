@@ -146,23 +146,23 @@ CALCULATE(
 
 ### Customer Analysis
 
-![Customer Analysis](Customer Detail Page.png)
+![Customer Analysis](images/Customer Detail Page.png)
 
 ### Product Analysis
 
-![Product Analysis](Product Detail Page.png)
+![Product Analysis](images/Product Detail Page.png)
 
 ### Regional Analysis
 
-![Regional Analysis](Map Page.png)
+![Regional Analysis](images/Map Page.png)
 
 ### Data Model
 
-![Data Model](Data Model.png)
+![Data Model](images/Data Model.png)
 
 ### DAX Measures
 
-![DAX Measures](Measure Tables.png)
+![DAX Measures](images/Measure Tables.png)
 
 ---
 

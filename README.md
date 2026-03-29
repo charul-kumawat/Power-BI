@@ -1,8 +1,8 @@
-# Power BI Portfolio | Charul Kumawat
+# Dashboard Portfolio | Charul Kumawat
 
-Hi, I am Charul, a market reserach analyst with an enthusiasm in data and research-driven decision making to drive organization gorwth. This portfolio highlights my skills as a business analyst.
+Hi, I am Charul, a market research analyst with experience in data and research-driven decision making to drive organization growth. This portfolio highlights my skills as a business analyst.
 
-# 📊 AdventureWorks Sales Performance Dashboard
+## 📊 AdventureWorks Sales Performance Dashboard
 
 A multi-page Power BI dashboard designed to analyze **sales performance, customer behavior, product trends, and regional distribution** to support data-driven business decisions.
 
@@ -36,9 +36,9 @@ The goal is to enable stakeholders to make **strategic decisions around sales op
 
 ---
 
-## 🧩 Dashboard Overview
+## Dashboard Overview
 
-### 🔹 Executive Summary
+### Executive Summary
 
 * Revenue: **$24.9M**
 * Profit: **$10.5M**
@@ -51,7 +51,7 @@ The dashboard shows a strong scale of business with $24.9M revenue, $10.5M profi
 
 ---
 
-### 👥 Customer Analysis
+### Customer Analysis
 
 * Total Customers: **17.4K**
 * Revenue per Customer: **$1.4K**
@@ -68,7 +68,7 @@ Key capabilities:
 
 ---
 
-### 📦 Product Performance Analysis
+### Product Performance Analysis
 
 * Tracks **top-performing products by revenue and orders**
 * Monitors **return percentage per product**
@@ -85,7 +85,7 @@ Key feature:
 
 ---
 
-### 🌍 Regional Analysis
+### Regional Analysis
 
 * Sales distribution across:
 
@@ -104,7 +104,7 @@ Interactive map enables:
 
 ---
 
-### 📈 Trend Analysis
+### Trend Analysis
 
 * Monthly revenue, profit, and order tracking
 * Rolling metrics using DAX
@@ -115,7 +115,7 @@ The business appears to be growing steadily rather than stagnating, and the late
 
 ---
 
-## 🏗️ Data Model
+## Data Model
 
 * Star schema structure with:
 
@@ -133,7 +133,7 @@ The business appears to be growing steadily rather than stagnating, and the late
 
 ---
 
-## 🧠 DAX & Analytical Techniques
+## DAX & Analytical Techniques
 
 Implemented advanced DAX measures such as:
 
@@ -157,7 +157,7 @@ CALCULATE(
 )
 ```
 
-## 🚀 Key Business Impact
+## Key Business Impact
 
 - The business generated $24.9M in revenue and $10.5M in profit across 25.2K orders, with a low 2.2% return rate, indicating strong overall performance.
 - Revenue is concentrated among a relatively small number of high-value customers; the top customer alone contributed $12.4K from only 6 orders. Retention of these customers will be beneficial.

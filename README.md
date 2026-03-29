@@ -77,6 +77,7 @@ Interactive map enables:
 * Identification of high-performing regions
 
 👉 **Insight:** The map shows strong sales presence in the United States, Canada, United Kingdom, France, Germany, and Australia, with the U.S. appearing as the dominant market. Sales are geographically concentrated, which helps identify priority regions for growth and localization.
+
 ---
 
 ### 📈 Trend Analysis

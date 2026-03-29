@@ -162,11 +162,14 @@ CALCULATE(
 
 ## 🚀 Key Business Impact
 
-* Enabled **data-driven decision making** through centralized dashboards
-* Identified **high-value customers and revenue concentration**
-* Highlighted **product-level performance and return risks**
-* Provided **regional insights for expansion strategies**
-* Improved visibility into **sales trends and performance tracking**
+- The business generated $24.9M in revenue and $10.5M in profit across 25.2K orders, with a low 2.2% return rate, indicating strong overall performance.
+- Revenue is concentrated among a relatively small number of high-value customers; the top customer alone contributed $12.4K from only 6 orders. Retention of these customers will be beneficial.
+- Middle-income and professional customer groups drive the largest share of orders, making them the most commercially important segments.
+- Product performance is skewed toward a few high-volume items, with the Water Bottle - 30 oz. leading at 3,983 orders and $39,755 revenue.
+- Return rates vary by product, showing that some high-selling products may need quality or expectation management.
+- Sales are concentrated across a few key international regions, with the United States appearing as the largest market.
+- Monthly revenue and customer volume show an upward trend over time, suggesting business growth and improving demand.
+- Target-versus-actual analysis and price adjustment scenarios add a decision-support layer to the dashboard.
 
 ---
 

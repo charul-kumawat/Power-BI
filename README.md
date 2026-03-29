@@ -117,7 +117,7 @@ The business appears to be growing steadily rather than stagnating, and the late
 
 ---
 
-## DATA MODEL
+## Data Model
 
 * Star schema structure with:
 
@@ -135,7 +135,7 @@ The business appears to be growing steadily rather than stagnating, and the late
 
 ---
 
-## DAX & ANALYTICAL TECHNIQUES
+## DAX & Analytical Techniques
 
 Implemented advanced DAX measures such as:
 
@@ -159,7 +159,7 @@ CALCULATE(
 )
 ```
 
-## KEY BUSINESS IMPACT
+## Key Business Impact
 
 - The business generated $24.9M in revenue and $10.5M in profit across 25.2K orders, with a low 2.2% return rate, indicating strong overall performance.
 - Revenue is concentrated among a relatively small number of high-value customers; the top customer alone contributed $12.4K from only 6 orders. Retention of these customers will be beneficial.
@@ -172,7 +172,7 @@ CALCULATE(
 
 ---
 
-## 📬 CONTACT
+## 📬 Contact
 
 * LinkedIn: https://www.linkedin.com/in/charul-kumawat-03526b239/
 * Email: [charulk97@gmail.com](mailto:charulk97@gmail.com)

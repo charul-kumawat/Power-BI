@@ -30,7 +30,7 @@ The goal is to enable stakeholders to make **strategic decisions around sales op
 * Orders: **25.2K**
 * Return Rate: **2.2%**
 
-Tracks overall business performance and trends over time, enabling quick executive-level decision making.
+The dashboard shows a strong scale of business with $24.9M revenue, $10.5M profit, 25.2K orders, and a relatively low 2.2% return rate. This indicates a healthy business with good profitability and controlled return leakage.
 
 ---
 
@@ -45,7 +45,7 @@ Key capabilities:
 * Analyze **orders by income level and occupation**
 * Track **customer growth trends over time**
 
-👉 **Insight:** Revenue is concentrated among a subset of high-value customers, indicating opportunities for targeted retention and upselling strategies.
+👉 **Insight:** The business serves about 17.4K unique customers, generating around $1.4K revenue per customer on average. The top customer alone generated $12.4K revenue from just 6 orders. Revenue is not evenly distributed; a small set of high-value customers contributes disproportionately, making retention and account management strategically important.
 
 ---
 
@@ -59,7 +59,7 @@ Key feature:
 
 * Dynamic **price adjustment simulation** to evaluate impact on profit
 
-👉 **Insight:** Certain products generate high revenue but also show elevated return rates, indicating potential quality or expectation gaps.
+👉 **Insight:** The Water Bottle - 30 oz. is the top product in the detail view, with 3,983 orders and $39,755 revenue. Other products such as Sport-100 Helmet, Red and AWC Logo Cap also contribute significant revenue. A small number of products drive a large share of sales, so inventory planning and promotion strategy should prioritize these high-volume items.
 
 ---
 
@@ -76,8 +76,7 @@ Interactive map enables:
 * Geographic performance comparison
 * Identification of high-performing regions
 
-👉 **Insight:** Revenue contribution is uneven across regions, highlighting opportunities for expansion in underperforming markets.
-
+👉 **Insight:** The map shows strong sales presence in the United States, Canada, United Kingdom, France, Germany, and Australia, with the U.S. appearing as the dominant market. Sales are geographically concentrated, which helps identify priority regions for growth and localization.
 ---
 
 ### 📈 Trend Analysis
@@ -86,7 +85,8 @@ Interactive map enables:
 * Rolling metrics using DAX
 * Target vs actual comparisons
 
-👉 **Insight:** Business shows consistent growth trends with periodic fluctuations, useful for forecasting and planning.
+👉 **Insight:** The monthly trend charts show an upward trajectory in revenue and customers over time, with visible spikes in the later period.
+The business appears to be growing steadily rather than stagnating, and the later spikes may indicate seasonal demand or successful campaigns.
 
 ---
 
@@ -102,7 +102,7 @@ Interactive map enables:
     * Territory Lookup
     * Calendar Lookup
 
-👉 Ensures efficient filtering, aggregation, and scalability.
+👉 The data model uses a star-schema structure with fact and dimension tables, and the measures page shows advanced DAX logic for rolling metrics, adjusted profit, target comparison, and customer/product segmentation.
 
 ---
 
@@ -127,16 +127,6 @@ CALCULATE(
     )
 )
 ```
-
----
-
-## 🛠️ Tools & Technologies
-
-* Power BI (Data Visualization & Dashboarding)
-* DAX (Advanced Calculations)
-* Data Modeling (Star Schema Design)
-
----
 
 ## 📸 Dashboard Preview
 

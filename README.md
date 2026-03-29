@@ -13,14 +13,13 @@ A multi-page Power BI dashboard designed to analyze **sales performance, custome
 - [Business Objective](#business-objective)
 - [Dashboard Overview](#dashboard-overview)
 - [Customer Analysis](#customer-analysis)
-- [Product Analysis](#product-analysis)
+- [Product Performance Analysis](#product-performance-analysis)
 - [Regional Analysis](#regional-analysis)
+- [Trend Analysis](#trend-analysis)
 - [Data Model](#data-model)
 - [DAX & Analytical Techniques](#dax--analytical-techniques)
-- [Key Insights](#key-insights)
-- [Tools & Technologies](#tools--technologies)
 - [Dashboard Preview](#dashboard-preview)
-- [Business Impact](#business-impact)
+- [Key Business Impact](#key-business-impact)
 - [Contact](#contact)
 
 ---
@@ -146,24 +145,24 @@ CALCULATE(
 )
 ```
 
-## 📸 Dashboard Preview
+### 📸 Dashboard Preview
 
-### Executive Dashboard
+## Executive Dashboard
 <img width="1333" height="754" alt="First Page" src="https://github.com/user-attachments/assets/c421ebd1-e847-47da-9c32-3984a9f4679b" />
 
-### Customer Analysis
+## Customer Analysis
 <img width="1338" height="755" alt="Customer Detail Page" src="https://github.com/user-attachments/assets/bafbad6b-b25e-495d-81ce-45829ec56535" />
 
-### Product Analysis
+## Product Analysis
 <img width="1333" height="750" alt="Product Detail Page" src="https://github.com/user-attachments/assets/b46f26b9-853f-4533-a9b9-283d2d9e2868" />
 
-### Regional Analysis
+## Regional Analysis
 <img width="1333" height="752" alt="Map Page" src="https://github.com/user-attachments/assets/84184cc7-1f07-47f6-adbf-c1140f5b62c5" />
 
-### Data Model
+## Data Model
 <img width="694" height="796" alt="Data Model" src="https://github.com/user-attachments/assets/bb8917d8-dd7b-43f0-b4cc-65396afdb62e" />
 
-### DAX Measures
+## DAX Measures
 <img width="1768" height="801" alt="Measure Tables" src="https://github.com/user-attachments/assets/12b8ab33-5a10-46b9-83a6-091915d99187" />
 
 ---
